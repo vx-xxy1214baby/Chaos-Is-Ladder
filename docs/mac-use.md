@@ -19,7 +19,10 @@
 - 要改的只有两行：      
         
         "remote_addr": "example.com",
+- 还有        
 
         "password1"
+- example.com和password1分别替换成网址和密码可以了，引号和逗号都不能删        
+
 
 
