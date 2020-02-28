@@ -4,7 +4,7 @@
 ![avatar](../res/mac-unzip.png)
 - 打开config.json文件，开头大致是这样的
 
-···
+···java
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
