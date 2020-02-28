@@ -1,2 +1,23 @@
 # 在Windows电脑上使用
-- 解压压缩包，
+- 解压压缩包  
+- 打开config.json文件，开头大致是这样的
+
+```java
+{
+    "run_type": "client",
+    "local_addr": "127.0.0.1",
+    "local_port": 1080,
+    "remote_addr": "example.com",
+    "remote_port": 443,
+    "password": [
+        "password1"
+    ]
+}
+```
+- 要改的只有两行：      
+        
+        "remote_addr": "example.com",
+- 还有        
+
+        "password1"
+- example.com和password1分别替换成网址和密码可以了，引号和逗号都不能删        
