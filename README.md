@@ -6,7 +6,7 @@
 
 - [Windows电脑]()
 
-- [Mac电脑]()
+- [Mac电脑](https://github.com/trojan-gfw/trojan/releases/download/v1.14.1/trojan-1.14.1-macos.zip)
 
   
 
