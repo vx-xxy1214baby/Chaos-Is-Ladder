@@ -38,6 +38,12 @@
 - 然后在你解压出来的trojan文件夹的上一层，：右键trojan文件夹->服务->新建位于文件夹位置的终端窗口，如下图
 ![avatar](../res/mac-terminal1.png)
 
+- 把下面的代码复制到终端，按回车就可以跑起来了        
+        
+        ./trojan config.json
 
+![avatar](../res/mac-run.png)
+
+- 现在你可以出去玩了
 
 
