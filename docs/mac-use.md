@@ -32,6 +32,12 @@
 
 ![avatar](../res/mac-setting.png)
 
+- 打开你的访达，在右上角菜单：访达--->服务--->服务偏好设置，勾选新建位于文件夹位置的终端窗口，如下图
+![avatar](../res/mac-terminal.png)
+
+- 然后在你解压出来的trojan文件夹的上一层，：右键trojan文件夹->服务->新建位于文件夹位置的终端窗口，如下图
+![avatar](../res/mac-terminal1.png)
+
 
 
 
