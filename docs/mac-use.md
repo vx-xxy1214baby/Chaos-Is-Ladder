@@ -16,3 +16,7 @@
     ]
 }
 ```
+- 要改的只有两行：
+`     "remote_addr": "example.com",
+`           "password1"
+
