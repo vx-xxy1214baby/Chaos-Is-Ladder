@@ -1,7 +1,7 @@
 ### 修改配置文件
 - 先解压zip文件  
 
-![avatar](../res/mac-upzip.png)
+![avatar](../res/mac-unzip.png)
 - 打开config.json文件，开头大致是这样的
 
 ···
