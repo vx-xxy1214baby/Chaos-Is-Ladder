@@ -1,8 +1,9 @@
 ### 修改配置文件
 - 先解压zip文件  
 ![avatar](../res/mac-upzip.png)
-- 打开config.jason文件，大致是这样的
-(···)
+- 打开config.json文件，开头大致是这样的
+
+···
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
@@ -11,5 +12,6 @@
     "remote_port": 443,
     "password": [
         "password1"
-    ],
-(···)
+    ]
+}
+···
