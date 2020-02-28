@@ -16,3 +16,7 @@
 
 - [苹果手机](./docs/ios-use.md)
 
+- [Windows电脑](./docs/win-use.md)
+
+- [Mac电脑](./docs/mac-use.md)
+
