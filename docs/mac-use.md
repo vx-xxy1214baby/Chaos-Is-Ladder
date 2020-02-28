@@ -2,7 +2,7 @@
 - 先解压zip文件  
 ![avatar](../res/mac-upzip.png)
 - 打开config.jason文件，大致是这样的
-···
+(···)
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
@@ -12,4 +12,4 @@
     "password": [
         "password1"
     ],
-···
+(···)
