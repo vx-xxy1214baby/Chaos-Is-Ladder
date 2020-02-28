@@ -14,3 +14,5 @@
 
 - [安卓手机](./docs/android-use.md)
 
+- [苹果手机](./docs/ios-use.md)
+
