@@ -12,4 +12,4 @@
 - 点击启用HTTP代理
 - 点击HTTP代理模式-选择全局模式
 ![avatar](../res/win-turn-on.png)
-
+# 如无意外，你已经可以用了
