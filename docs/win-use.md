@@ -6,4 +6,6 @@
   - [Windows.NET Framework 4.6.2](https://support.microsoft.com/zh-cn/help/3151800/the-net-framework-4-6-2-offline-installer-for-windows)
 - 打开在左上角服务器中选择：add Trojan server
 ![avatar](../res/win_add_trojan.png)
+- 然后将信息填入输入框：
+![avatar](../res/win-config.png)
 
