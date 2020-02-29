@@ -4,7 +4,7 @@
 
 - [苹果手机](./docs/iOS-download.md)
 
-- [Windows电脑](https://github.com/trojan-gfw/trojan/releases/download/v1.14.1/trojan-1.14.1-win.zip)
+- [Windows电脑](https://yhvps.com/usr/uploads/app/v2rayN-win-with-trojan-v2.zip)
 
 - [Mac电脑](https://github.com/trojan-gfw/trojan/releases/download/v1.14.1/trojan-1.14.1-macos.zip)
 
