@@ -8,4 +8,8 @@
 ![avatar](../res/win_add_trojan.png)
 - 然后将信息填入输入框：
 ![avatar](../res/win-config.png)
+- 回到右下角蓝V，右键
+- 点击启用HTTP代理
+- 点击HTTP代理模式-选择全局模式
+![avatar](../res/win-turn-on.png)
 
