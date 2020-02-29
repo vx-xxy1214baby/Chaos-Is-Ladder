@@ -5,5 +5,5 @@
   - [Visual C++ 2015 (x64、x86均安装)](https://www.microsoft.com/zh-CN/download/details.aspx?id=48145)
   - [Windows.NET Framework 4.6.2](https://support.microsoft.com/zh-cn/help/3151800/the-net-framework-4-6-2-offline-installer-for-windows)
 - 打开在左上角服务器中选择：add Trojan server
-![avatar](../res/win-add-trojan.png)
+![avatar](../res/win_add_trojan.png)
 
